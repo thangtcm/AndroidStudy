@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">thành phố Hồ Chí Minh</string>
+    <string name="welcome">Chào mứng đến thành phố Hồ Chí Minh</string>
+    <string name="here">Bạn đang ở quận 1</string>
+    <string name="locate">Locate</string>
+</resources>
